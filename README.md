@@ -90,12 +90,10 @@ This EDA project demonstrates the practical application of data analysis techniq
 ---
 
 
-## 📬 Contact
+## Author
 
-**Prasad Darandale**
-📧 Email: [prasaddarandale2004@gmail.com](mailto:prasaddarandale2004@gmail.com)
-🔗 GitHub: [https://github.com/PrasadDarandale](https://github.com/PrasadDarandale)
-🔗 LinkedIn: [https://www.linkedin.com/in/prasaddarandale](https://www.linkedin.com/in/prasaddarandale)
+**Prasad Darandale**  
+Data Analytics & Data Scientist  
 
 ---
 
