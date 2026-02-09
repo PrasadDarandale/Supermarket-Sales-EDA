@@ -29,16 +29,10 @@ The analysis converts raw transactional data into meaningful business insights b
 ---
 
 ## 📁 Project Structure
-- ** Supermarket-Sales-EDA.ipynb** – Complete EDA notebook 
-- ** README.md** – # Project documentation
-- ** data/ ** –  # Dataset (if applicable)
-- ** images/** – # Saved visualizations (optional)
- 
-
-Supermarket-Sales-EDA.ipynb   # Complete EDA notebook 
-README.md                    # Project documentation
-data/                        # Dataset (if applicable)
-images/                      # Saved visualizations (optional)
+- Supermarket-Sales-EDA.ipynb – Complete EDA notebook 
+- README.md – Project documentation
+- data –  Dataset (if applicable)
+- images – Saved visualizations (optional)
 
 
 ---
